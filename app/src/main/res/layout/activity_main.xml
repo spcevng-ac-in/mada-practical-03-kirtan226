@@ -1,0 +1,43 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory.
+ In this article, I'll show you how to read a large text file in c#. I will also explain how to create batches for reading a large text file using c#. To read the text file I'll use CustomFileReader class, where i will implement IEnumerable interface to read batch wise sequential series of characters as well as texts from a text file, Here, will also explain how to read a text file and convert it into DataTable using the c# with example.
+
+In my previous article I 'explained how to read delimited text file. I got multiple email requests for sharing articles on reading large file. While you working with any large file sometimes you will get error of out of memory exception, just because of you reading the largest content from the file and storing the data into in-memory."/>
+    </LinearLayout>
+</ScrollView>
